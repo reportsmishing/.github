@@ -7,4 +7,6 @@ Keep an eye out for some very interesting upcoming tools and data!
 
 If you would like to help the project and/or Sharad in making this a cool open-source project, Sponsor us [here](https://github.com/sponsors/reportsmishing).
 
+If you receive a phishing SMS, tweet it and tag us!
+
 [![twitter](https://img.shields.io/twitter/follow/reportsmishing?style=social)](https://twitter.com/reportsmishing)
