@@ -1,9 +1,7 @@
-This is a research project to understand and investigate SMS-based phishing aka Smishing.
+This is a research project to understand and investigate SMS-based phishing aka Smishing. 
 
-Here you will find everything about Smishing (SMS-based phishing). 
-
-Starting from a [knowledgebase](https://github.com/reportsmishing/knowledgebase) to a lot more of interesting insights in the world of smishing. 
-Keep an eye out for some very interesting upcoming tools and data!
+Starting from a [knowledgebase](https://github.com/reportsmishing/knowledgebase) to a lot more interesting insights in the world of smishing. 
+Follow the project to keep up-to-date with interesting upcoming tools and data!
 
 If you would like to help make this a cool open-source project, [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/reportsmishing)
 
