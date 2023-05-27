@@ -1,11 +1,12 @@
+# Report Smishing
+
 This is a research project to understand and investigate SMS-based phishing aka Smishing. 
 
-Starting from a [knowledgebase](https://github.com/reportsmishing/knowledgebase) to a lot more interesting insights in the world of smishing. 
-Follow the project to keep up-to-date with interesting upcoming tools and data!
+Starting from a **[knowledgebase](https://github.com/reportsmishing/knowledgebase)** to a lot more interesting insights in the world of smishing research. Follow the project to keep up-to-date with interesting upcoming tools, publications and data!
 
 If you would like to help make this a cool open-source project, [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/reportsmishing)
 
-**If you receive a phishing SMS, tweet it and tag us!**
+**If you receive a phishing SMS, tweet it with #smishing and tag us!**
 
 [![twitter](https://img.shields.io/twitter/follow/reportsmishing?style=social)](https://twitter.com/reportsmishing)
 
